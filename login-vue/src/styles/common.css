@@ -1,0 +1,32 @@
+.inner {
+  margin: 0 100px;
+}
+
+
+/* social-login */
+.social-login {
+  margin: 20px 0;
+}
+.social-login p {
+  text-align: center;
+}
+.social-login ul li a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-indent: -999px;
+}
+.social-login ul li:nth-child(1) a {
+  background: url('../assets/img/social-naver.png') center no-repeat;
+  background-size: cover;
+}
+.social-login ul li:nth-child(2) a {
+  background: url('../assets/img/social-kakao.png') center no-repeat;
+  background-size: cover;
+}
+.social-login ul li:nth-child(3) a {
+  background: url('../assets/img/social-google.png') center no-repeat;
+  background-size: cover;
+}
+
