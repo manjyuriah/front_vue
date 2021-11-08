@@ -1,6 +1,6 @@
 <template>
   <div class="login">
-    <p class="title">로그인하기</p>
+    <p class="title">[로그인하기]</p>
     <div class="login-form">
         <ul>
           <li>
